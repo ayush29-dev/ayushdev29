@@ -59,15 +59,13 @@ Static site deployed via AWS S3 — covers bucket setup, hosting config, and end
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush29-dev&show_icons=true&theme=default&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ayush29-dev&theme=default&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush29-dev&layout=compact&theme=default&hide_border=true)
 
 ---
 
 ### 🧩 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/AyushGhosh29?theme=light&font=baloo2&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AyushGhosh29?theme=light&font=baloo2)
 
 ---
 
