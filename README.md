@@ -2,8 +2,8 @@
 
 Full-Stack Developer · Pre-Final Year ECE @ NIT Hamirpur · Building cloud, real-time & full-stack systems
 
-- 🚀 Working on **Gamearena** — cloud gaming / device management platform (React + TypeScript) @ Rhinostream Technologies
-- 🌱 Sharpening MERN, AWS & DSA fundamentals for SDE roles
+- 🚀 **Full Stack Developer Intern @ Rhinostream Technologies** (May 2026 – Present) — building Gamearena cloud gaming platform
+- 🌱 ECE @ NIT Hamirpur (CGPI 7.91) · MERN, AWS & DSA
 - 💼 Open to SDE Internship / Full-Time opportunities
 - 📫 **ayushghosh290305@gmail.com** · [LinkedIn](https://linkedin.com/in/ayush-ghosh-563200229)
 
@@ -11,9 +11,10 @@ Full-Stack Developer · Pre-Final Year ECE @ NIT Hamirpur · Building cloud, rea
 
 ### 🏆 Highlights
 
-- 🥇 State-Level Badminton achievement
-- 💰 Finance Lead, DND Club — Hill'fair 2025
-- 🛠️ Active contributor on **Gamearena** frontend (Rhinostream Technologies org)
+- 🥇 National-Level Hackathon Finalist — top teams among 50+ at Hack 5.0
+- 🧮 650+ problems solved on LeetCode · Contest rating 1478
+- 🏸 Represented Odisha at State-Level Badminton (2020)
+- 💰 Finance Lead, DND Club — Hill'fair 2025 (oversaw budget/resources for 5+ events, 100+ participants)
 
 ---
 
@@ -52,14 +53,6 @@ Browser-based live network simulator — models topology as a graph, detects ano
 
 **[☁️ Static Website Deployment on AWS](https://github.com/ayush29-dev/Deploy-a-Static-Website-on-AWS)**
 Static site deployed via AWS S3 — covers bucket setup, hosting config, and end-to-end static deployment workflow.
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush29-dev&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush29-dev&layout=compact&theme=default&hide_border=true)
 
 ---
 
